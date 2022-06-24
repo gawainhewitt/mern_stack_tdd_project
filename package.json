@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/gawainhewitt/mern_stack_tdd_project/issues"
   },
-  "homepage": "https://github.com/gawainhewitt/mern_stack_tdd_project#readme"
+  "homepage": "https://github.com/gawainhewitt/mern_stack_tdd_project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.0"
+  }
 }
